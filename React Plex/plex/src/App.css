@@ -176,7 +176,6 @@ cursor: pointer;
   border-color: #e5a00d;
 }
 
-/* Movie Sections */
 .movie-sections {
   margin-bottom: 3rem;
   padding-left: 30px;
@@ -215,7 +214,6 @@ cursor: pointer;
   display: none;
 }
 
-/* Movie Cards */
 .movie-card {
   position: relative;
   flex-shrink: 0;
@@ -301,7 +299,6 @@ cursor: pointer;
   margin-bottom: 0.5rem;
 }
 
-/* Load More Button */
 .load-more-container {
   text-align: center;
   margin: 2rem 0;
@@ -330,7 +327,6 @@ cursor: pointer;
   transform: none;
 }
 
-/* Loading */
 .loading {
   text-align: center;
   padding: 2rem;
